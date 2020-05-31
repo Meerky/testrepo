@@ -2,3 +2,18 @@ bob
 Mary
 jim
 Mary
+
+
+meghajtó: pl e: váltok az E meghajtóra
+E:\ cd ifksp belépek a mappába
+E:\ifksp\cd testrepo belépek a testrepo mappába
+
+dir -  kiiratom mi van a könyvtárba
+git status 
+git fetch  - összehasonlitja a szerveren levo fájlokat és  agépemen levokkel 
+git add .  - fájl módosításánál elso lépes
+git commit m"ide irom az üzenetet pl.mit csináltam."
+git pull ha valami van a szerveren azt letöltöm és csak utána használom a git push parancsot 
+git push feltöltöm a fájlt itt már kér egy felhasználó nevet és jelszót, csak a tulajnak engedi ill. akinek megendi a módosítást
+
+
